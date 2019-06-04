@@ -1,5 +1,7 @@
 # AngularDemo
 
+[![Build Status](https://travis-ci.org/oliverwreath/AngularDemo.svg?branch=master)](https://travis-ci.org/oliverwreath/AngularDemo)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
 ## Development server
