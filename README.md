@@ -1,5 +1,6 @@
 # AngularDemo
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/09a9a14123fe4f4d83bda7c94639a06d)](https://app.codacy.com/app/oliverwreath/AngularDemo?utm_source=github.com&utm_medium=referral&utm_content=oliverwreath/AngularDemo&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/oliverwreath/AngularDemo.svg?branch=master)](https://travis-ci.org/oliverwreath/AngularDemo)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
